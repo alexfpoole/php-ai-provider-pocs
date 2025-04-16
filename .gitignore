@@ -1,0 +1,6 @@
+# Composer dependencies
+/vendor/
+/.idea/
+
+# API Keys and sensitive configuration
+gemini-api-key.txt
